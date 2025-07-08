@@ -46,7 +46,7 @@ pip install tensorflow opencv-python numpy
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/cat-dog-classifier.git
+git clone https://github.com/rukshi-123/cat-dog-classifier.git
 cd cat-dog-classifier
 ```
 
