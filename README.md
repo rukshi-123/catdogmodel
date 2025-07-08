@@ -23,4 +23,7 @@ If the confidence of the prediction is below a certain threshold (default: 60%),
 ---
 
 ## 📁 Project Structure
-
+Cat-Dog-Classifier/
+├── CatDogModel.h5 # Pre-trained Keras model file
+├── cat_dog_predictor.py # Python script to run live classification
+└── README.md # This documentation
