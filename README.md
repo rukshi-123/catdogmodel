@@ -104,10 +104,6 @@ Prediction: Dog (92.15%)
 - Works best in well-lit environments
 - May require retraining or fine-tuning for better accuracy on different datasets
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## 🤝 Contributions
 
 Got ideas or want to improve it? Contributions are welcome!
