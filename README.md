@@ -117,11 +117,4 @@ Feel free to fork this repository, raise an issue, or submit a pull request.
 
 ---
 
-### ✅ Optional Add-ons (you can add these later):
-
-- **GIF Demo**: Add a `.gif` showing your webcam predictions in action.
-- **Badge Shields**: Use GitHub badges for license, build, Python version, etc.
-- **Model Training Info**: Link to a notebook or include training details.
-
-
 
