@@ -1,4 +1,4 @@
-AS# 🐶🐱 Cat & Dog Image Classifier - Real-Time Deep Learning Model
+# 🐶🐱 Cat & Dog Image Classifier - Real-Time Deep Learning Model
 
 This project is a **real-time image classification system** built using **TensorFlow/Keras** and **OpenCV**. It utilizes a pre-trained deep learning model to detect and classify **cats** and **dogs** from a webcam feed with live confidence scores and visual feedback.
 
